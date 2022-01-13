@@ -1,0 +1,14 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Å‘Ôõúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤€—–øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(û´×¹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆœžä
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬Æ©‚
+B
+java:S3011%",This accessibility update should be removed.(˜ÂÓ˜
+B
+java:S30110",This accessibility update should be removed.(˜ÂÓ˜
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ÞÙÒŠ
+0
+java:S1220""Move this file to a named package.

@@ -1,0 +1,11 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(¦ˆ çûÿÿÿÿ
+M
+java:S6126
+"2Replace this String concatenation with Text block.(¦ˆ çûÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(†ò¶—
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(Îñë
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(†ò¶—
+0
+java:S1220""Move this file to a named package.

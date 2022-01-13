@@ -1,0 +1,17 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯³ÇÓûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(›ÿªÒ
+i
+java:S3776)"SRefactor this method to reduce its Cognitive Complexity from 407 to the 15 allowed.(ù£ì³
+G
+java:S30111",This accessibility update should be removed.(Ü¡Ó—øÿÿÿÿ
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(èö°þùÿÿÿÿ
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(èö°þùÿÿÿÿ8Œñ·¥å/
+[	java:S106Ó"9Replace this use of System.out or System.err by a logger.(èö°þùÿÿÿÿ8’Âº¥å/
+V	java:S106½"9Replace this use of System.out or System.err by a logger.(†ò¶—8¡íº¥å/
+o
+java:S1192•"LDefine a constant instead of duplicating this literal "Wrong Input" 3 times.(èö°þùÿÿÿÿ8¡íº¥å/
+0
+java:S1220""Move this file to a named package.

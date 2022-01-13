@@ -1,0 +1,21 @@
+
+m
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ß‘ˆêüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚ßÃä
+G
+java:S3011",This accessibility update should be removed.(Ü¡Ó—øÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(Âœë
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(Ì­ÆÙ8¤ôÈ¥å/
+Y
+java:S6208)"CMerge the previous cases into this one using comma-separated label.(®ÊÎ»
+Y
+java:S6208/"CMerge the previous cases into this one using comma-separated label.(Ëœû£
+Y
+java:S62088"CMerge the previous cases into this one using comma-separated label.(Àúı
+7
+java:S1220""Move this file to a named package.8É—˜¥å/
+^
+java:S22590"CA "NullPointerException" could be thrown; "value" is nullable here.(˜Ñ­şÿÿÿÿ
+^
+java:S2259*"CA "NullPointerException" could be thrown; "value" is nullable here.(±Ë¥Òşÿÿÿÿ

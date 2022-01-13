@@ -1,0 +1,13 @@
+
+n
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(¦Ã¿Çùÿÿÿÿ8çö«£å/
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8çö«£å/
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(Ó­Ïˆ8®¨Ä£å/
+T	java:S106;"9Replace this use of System.out or System.err by a logger.(„øàq8®¨Ä£å/
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(«×Ğ€şÿÿÿÿ8®¨Ä£å/
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(‘‰Ğ­8®¨Ä£å/
+7
+java:S1220""Move this file to a named package.8«÷™¥å/
+]
+java:S2259"@A "NullPointerException" could be thrown; "br" is nullable here.(µÖ€’8ı÷¥å/
